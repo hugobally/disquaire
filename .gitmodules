@@ -1,0 +1,6 @@
+[submodule "disquaire-frontend"]
+	path = disquaire-frontend
+	url = git@github.com:hugobally/disquaire-frontend.git
+[submodule "disquaire-backend"]
+	path = disquaire-backend
+	url = git@github.com:hugobally/disquaire-backend.git
