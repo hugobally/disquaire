@@ -1,5 +1,7 @@
 # disquaire
 
+This is a Work in progress -- An incomplete test version of the result can be seen at https://ajna.netlify.app/
+
 disquaire is a static site builder for small record labels or record stores. 
 
 The site's data comes from two sources :
@@ -8,5 +10,3 @@ The site's data comes from two sources :
 
 The frontend is built with Gatsby.js and TailwindCSS and can be hosted on Netlify or other similar platforms.
 The CMS backend is buildt with Strapi and can be self-hosted.
-
-disquaire powers (link to ajna management)
