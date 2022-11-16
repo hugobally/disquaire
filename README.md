@@ -9,4 +9,4 @@ The site's data comes from two sources :
 2. The CMS -> For customizing the Discogs inventory with notes and categories and for all the site's content (intro, bands, ..)  
 
 The frontend is built with Gatsby.js and TailwindCSS and can be hosted on Netlify or other similar platforms.
-The CMS backend is buildt with Strapi and can be self-hosted.
+The CMS backend is built with Strapi and can be self-hosted.
