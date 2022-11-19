@@ -10,3 +10,4 @@ The site's data comes from two sources :
 
 The frontend is built with Gatsby.js and TailwindCSS and can be hosted on Netlify or other similar platforms.
 The CMS backend is built with Strapi and can be self-hosted.
+
