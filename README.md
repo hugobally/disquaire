@@ -1,6 +1,6 @@
 # disquaire
 
-This is a Work in progress -- An incomplete test version of the result can be seen at https://ajna.netlify.app/
+<Work in progress>
 
 disquaire is a responsive static site builder for small record labels or record stores. 
 
